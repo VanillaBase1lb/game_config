@@ -1,0 +1,137 @@
+{
+	"settingsVersion": 13,
+	"actionMappings": [
+		{
+			"name": "Activate_Level",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "Five",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "PrevWeapon",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "None",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "NextWeapon",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "None",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "EquipLastUsed",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "LeftAlt",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "Jump",
+			"characterName": "None",
+			"bindIndex": 1,
+			"key": "MouseScrollUp",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "Ping",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "ThumbMouseButton",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "ToggleMap",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "None",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "OpenMegamap",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "P",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "Inspect",
+			"characterName": "None",
+			"bindIndex": 1,
+			"key": "MouseScrollDown",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "OpenCommMenu",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "None",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "UseAlternateObject",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "Five",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "CommWheelIndex",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "Z",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		},
+		{
+			"name": "ShowExtendedInfo",
+			"characterName": "None",
+			"bindIndex": 0,
+			"key": "None",
+			"shift": false,
+			"ctrl": false,
+			"alt": false,
+			"cmd": false
+		}
+	],
+	"axisMappings": [],
+	"settingsProfiles": []
+}
