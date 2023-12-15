@@ -1,0 +1,24 @@
+"config"
+{
+	"bindings"
+	{
+		"SPACE"		"+jump;+throw"
+		"MWHEELUP"		"+jump"
+		"e"		"slot8"
+		"f"		"+use"
+		"MOUSE1"		"+attack"
+		"MWHEELDOWN"		"<unbound>"
+		"q"		"slot7"
+		"ALT"		"lastinv"
+		"MOUSE5"		"+lookatweapon"
+		"7"		"<unbound>"
+		"8"		"<unbound>"
+		"0"		"<unbound>"
+		"c"		"slot10"
+		"MOUSE3"		"player_ping"
+		"MOUSE4"		"+radialradio2"
+		"v"		"+voicerecord"
+		"F10"		"<unbound>"
+		"4"		"slot4"
+	}
+}
